@@ -18,7 +18,7 @@
 
 I'm a Full Stack Developer with experience in building web applications using **Angular** on the front-end and **Java** on the back-end.
 
-I hold a degree in **Computer Science** and I’m currently pursuing a postgraduate degree in **Digital Solutions Architecture** at **PUC Minas EAD**.
+I hold a degree in **Computer Science** at **UTFPR** and I’m currently pursuing a postgraduate degree in **Digital Solutions Architecture** at **PUC Minas**.
 
 My experience also includes working with **Oracle Database**, **IBM MQ**, **RabbitMQ**, and **Redis**, contributing to system integration, asynchronous communication, and performance optimization.
 
